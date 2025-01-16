@@ -452,6 +452,8 @@ html {
     padding-right: 5px;
     height: 30px;
     font-size: 19px;
+    font-family: TT Regular;
+    font-weight: 400;
     
    
     border-radius: 4px;
@@ -520,7 +522,7 @@ height: 100%;
 .card__pr {
     display: block;
    text-align: left;
-    margin-left: 20px;
+    margin-left: 10px;
    margin-right: 20px;
   
    
@@ -528,7 +530,8 @@ height: 100%;
     font-size: 24px;
     opacity: 0.8;
     height: 140px;
-    width: 79%;
+    width: 90%;
+    height: 32%;
     margin-bottom: 45px;
     
     
@@ -760,12 +763,12 @@ height: 100%;
     width: 100%;
     height: 40%;
     margin-right: 5px;
-    margin-left: 20px;
+    margin-left: 10px;
     font-family: TT Regular;
     font-weight: 400;
    
     opacity: 0.8;
-    
+    font-size: 19px;
 }
 
 .card__pr-2 {
@@ -779,7 +782,7 @@ height: 100%;
    margin-right: 20px;
     width: 100%;
     height: auto;
-    font-size: 17px;
+    font-size: 19px;
    
    
 }
